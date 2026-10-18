@@ -7,6 +7,7 @@ I'm preparing for **L1 Application Development at UNCHK (Université Numérique 
 | Path | Focus |
 |---|---|
 | `00_TD/trace_tables.md` | Pseudocode, Boolean logic, and hand-tracing |
+| `00_TD/td_02_boucles.md` | TD on loops, counters, accumulators, and modulo |
 | `01_fundamentals/conditions.py` | Variables, types, conditions, and Boolean expressions |
 | `02_loops/loops.py` | Loops, accumulation, factorial, and stopping conditions |
 | `03_data_structures/search_sort.py` | Lists, matrices, linear/binary search, and sorting |
@@ -39,6 +40,7 @@ python3 05_project/text_adventure.py
 - [x] Initial repository and learning roadmap
 - [x] First examples for conditions, loops, data structures, and functions
 - [x] First mini-project: The Three Doors
+- [x] Added TD 02 exercises on loops and tracing
 - [ ] Complete the TD exercises independently
 - [ ] Add more tests and explain time complexity
 - [ ] Improve the mini-project based on feedback
