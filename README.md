@@ -1,40 +1,46 @@
-# programming-journey
 # My Programming Journey 💻
 
-## About Me
-I am preparing to study **Application Development at UNCHK (Université Numérique Cheikh Hamidou Kane)**. My goal is to build a strong foundation in computer science and progressively develop the skills needed to create useful software applications.
+I'm preparing for **L1 Application Development at UNCHK (Université Numérique Cheikh Hamidou Kane)**. This repository documents my algorithmics practice and small programming projects.
 
-## 🎯 My Goals
-- Understand algorithms and problem-solving.
-- Learn programming fundamentals and data structures.
-- Develop web and mobile applications.
-- Practice writing clean, understandable, and maintainable code.
-- Build a portfolio of personal projects and academic exercises.
+## Repository map
 
-## 📚 Current Learning Plan
+| Path | Focus |
+|---|---|
+| `00_TD/trace_tables.md` | Pseudocode, Boolean logic, and hand-tracing |
+| `01_fundamentals/conditions.py` | Variables, types, conditions, and Boolean expressions |
+| `02_loops/loops.py` | Loops, accumulation, factorial, and stopping conditions |
+| `03_data_structures/search_sort.py` | Lists, matrices, linear/binary search, and sorting |
+| `04_functions/modularity.py` | Functions, parameters, return values, and modularity |
+| `05_project/` | A small interactive text adventure |
 
-### 1. Algorithmics
-- Variables and data types
-- Conditions
-- Loops
-- Functions
-- Arrays
-- Problem-solving exercises
+## Learning approach
 
-### 2. Programming
-- Choose and learn my first programming language.
-- Translate algorithms into working code.
-- Practice through small exercises and projects.
+For each exercise:
+1. Predict the output or trace the algorithm by hand.
+2. Run the Python code.
+3. Compare the result with the prediction.
+4. Explain the logic in my own words.
+5. Modify the example or solve a related exercise independently.
 
-### 3. Development Projects
-- Start with simple programs.
-- Gradually build interactive applications.
-- Document my projects and the problems I solve.
+## Run the examples
 
-## 📈 Progress Tracking
+Python 3 is required. From the repository root, for example:
 
-I will use this repository to document my learning progress, keep useful exercises, and share projects as I develop my skills.
+```bash
+python3 01_fundamentals/conditions.py
+python3 02_loops/loops.py
+python3 03_data_structures/search_sort.py
+python3 04_functions/modularity.py
+python3 05_project/text_adventure.py
+```
 
-**Current focus:** Strengthening my algorithmic thinking and establishing consistent programming practice.
+## Progress
 
-> The goal is not just to learn syntax, but to understand how to solve problems and build things independently.
+- [x] Initial repository and learning roadmap
+- [x] First examples for conditions, loops, data structures, and functions
+- [x] First mini-project: The Three Doors
+- [ ] Complete the TD exercises independently
+- [ ] Add more tests and explain time complexity
+- [ ] Improve the mini-project based on feedback
+
+**Current focus:** build algorithmic reasoning, not just memorize syntax. These are learning exercises; I aim to understand, test, and improve each one rather than claim mastery after copying it.
