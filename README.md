@@ -8,8 +8,9 @@ I'm preparing for **L1 Application Development at UNCHK (Université Numérique 
 |---|---|
 | `00_TD/trace_tables.md` | Variables, assignment, Boolean logic, and hand-tracing |
 | `00_TD/td_01_conditions_10_algorithms.md` | Ten conditional algorithms to trace, with test cases and quick corrections |
-| `00_TD/corrections_td_01.md` | Worked reference answers for the original TD 01 |
-| `00_TD/td_02_boucles.md` | Loops, counters, accumulators, and modulo |
+| `00_TD/corrections_td_01.md` | Worked reference answers for TD 01 |
+| `00_TD/td_02_boucles.md` | Loops, counters, accumulators, and modulo exercises |
+| `00_TD/corrections_td_02.md` | Worked loop traces, modulo examples, invariants, and termination |
 | `00_TD/td_03_structures.md` | Lists, matrices, linear/binary search, and sorting |
 | `00_TD/td_04_fonctions_complexite.md` | Functions, invariants, termination, and complexity |
 | `01_fundamentals/conditions.py` | Variables, types, conditions, Boolean expressions, score validation |
@@ -50,7 +51,7 @@ For each TD or TP:
 ## Programme coverage
 
 - [x] Variables, assignment, conditions, Boolean logic, and modulo examples
-- [x] Ten conditional tracing exercises aligned with the pre-entry plan
+- [x] Ten conditional tracing exercises and reference answers
 - [x] Repetition with `for` and `while`, sums, factorial, and stopping conditions
 - [x] Lists/matrices, linear and binary search, selection sort and bubble sort
 - [x] Functions, parameters, return values, and local scope
