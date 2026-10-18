@@ -16,7 +16,7 @@ I'm preparing for **L1 Application Development at UNCHK (Université Numérique 
 | `02_loops/loops.py` | Sums, factorials, multiplication tables, and a terminating while loop |
 | `03_data_structures/search_sort.py` | Lists, matrices, linear/binary search, selection sort, bubble sort |
 | `04_functions/modularity.py` | Functions, parameters, return values, scope, and prime testing |
-| `05_project/` | The Three Doors — a commented text adventure with input validation |
+| `05_project/` | The Three Doors — text adventure, project report, algorithm outline, and manual test plan |
 | `06_TP/input_validation.py` | Practical input validation and conditional classification |
 | `06_TP/measure_search.py` | Empirical timing comparison of linear and binary search |
 | `07_tests/test_algorithms.py` | Automated regression tests for the core examples |
@@ -56,7 +56,7 @@ For each TD or TP:
 - [x] Functions, parameters, return values, and local scope
 - [x] TD files for tracing, structures, invariants, termination, and basic complexity
 - [x] Executable TP scripts for validation and empirical search timing
-- [x] Interactive text mini-project with manual test plan
+- [x] Interactive text mini-project with algorithm description and manual test plan
 - [x] Automated regression tests added
 - [ ] Run every script and the test suite on the local machine
 - [ ] Complete a personal explanation / oral walkthrough of each section
